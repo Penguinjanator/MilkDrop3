@@ -121,7 +121,7 @@ https://www.buymeacoffee.com/MilkDrop2077/<br/>
 - Fixed a bug where a DLL was missing when launching MilkDrop if DirectX was not fully installed.<br/>
 - Fixed a major bug where playing music with special characters or non-Latin characters in the title caused MilkDrop3 to crash.<br/>
 - Fixed the Show artist & title on new track not saved properly.<br/>
-- MD5: 6F1FE28E3418EBAF834E9C9CC21CE809<br/><br/>
+- MD5: 5DCFB90F4247A1706D447A9851816964<br/><br/>
 
 ★ <ins>11/09/2026 : Version 3.35</ins><br/>
 - MilkDrop3 is now a 64-bit application, providing ~18% performance boost for CPU operations (doesn't mean +18% fps!).<br/>
