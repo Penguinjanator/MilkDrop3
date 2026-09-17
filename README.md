@@ -116,6 +116,12 @@ https://www.buymeacoffee.com/MilkDrop2077/<br/>
 
 # History:
 
+★ <ins>17/09/2026 : Version 3.36</ins><br/>
+- MilkDrop3 is now 100% portable on Windows; no DirectX files needed!<br/>
+- Fixed a bug where a DLL was missing when launching MilkDrop if DirectX was not fully installed.<br/>
+- Fixed a major bug where playing music with special characters or non-Latin characters in the title caused MilkDrop3 to crash.<br/>
+- MD5: 6F1FE28E3418EBAF834E9C9CC21CE809<br/><br/>
+
 ★ <ins>11/09/2026 : Version 3.35</ins><br/>
 - MilkDrop3 is now a 64-bit application, providing ~18% performance boost for CPU operations (doesn't mean +18% fps!).<br/>
 - Native GIF image support! GIFs are now treated like JPG and PNG files, allowing you to use them as textures or sprites.<br/>
@@ -162,8 +168,8 @@ When you open the application files, Windows SmartScreen may display the publish
 - New audio sensitivity setting: amplify the picked-up volume.<br/>
 - New FFT Attack & Decay: tweak how shaders respond to get_fft(pos).<br/>
 - Tons of small bug fixes and improvements!<br/>
-- A few shaders are not open-source and will only work with MilkDrop3.<br/><br/>
-- MD5: 6D5B124D8C303631782EFA9A44A4CEE4
+- A few shaders are not open-source and will only work with MilkDrop3.<br/>
+- MD5: 6D5B124D8C303631782EFA9A44A4CEE4<br/><br/>
 
 ★ <ins>20/09/2025 : Version 3.31</ins><br/>
 - Full support for Hi-Res audio devices (24-bit/192kHz and beyond).<br/>
